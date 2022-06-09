@@ -1,8 +1,10 @@
 ## SoloX 
 
-SoloX - Real-time collection tool for Android performance data.
+- SoloX - Real-time collection tool for Android performance data. 🧙 🧙 🧙
 
-We are committed to solving inefficient, cumbersome test execution, and our goal is Simple Test In SoloX! 👋👋👋
+- We are committed to solving inefficient, cumbersome test execution, and our goal is Simple Test In SoloX! 👋 👋 👋
+
+- Docs: https://smart-test-ti.github.io/solox.html 🍿 🍿 🍿
 
 <p align="center">
 <a href="#">

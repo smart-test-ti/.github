@@ -4,7 +4,7 @@
 
 - We are committed to solving inefficient, cumbersome test execution, and our goal is Simple Test In SoloX! 👋 👋 👋
 
-- Docs: https://smart-test-ti.github.io/solox.html 🍿 🍿 🍿
+- Site: https://smart-test-ti.github.io/apm.html 🍿 🍿 🍿
 
 <p align="center">
 <a href="#">

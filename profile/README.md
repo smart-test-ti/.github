@@ -4,6 +4,8 @@
 
 - Site: https://smart-test-ti.github.io/apm.html 🍿 🍿 🍿
 
+- Notice: If you want to become a Smart Test developer, please send an email to rafacheninc@gmail.com
+
 <p align="center">
 <a href="#">
 <img src="https://cdn.nlark.com/yuque/0/2022/png/153412/1643364757640-b4529458-ec8d-42cc-a2d8-c0ce60fdf50f.png" alt="SoloX" width="200">

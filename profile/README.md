@@ -2,7 +2,7 @@
 
 - We are committed to solving inefficient, cumbersome test execution, and our goal is Simple Test In Smart Test! 👋 👋 👋
 
-- Site: https://smart-test-ti.github.io/apm.html 🍿 🍿 🍿
+- Demo: https://smart-test-ti.github.io/apm.html 🍿 🍿 🍿
 
 - Notice: If you want to become a Smart Test developer, please send an email to rafacheninc@gmail.com
 

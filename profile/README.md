@@ -1,8 +1,6 @@
-## SoloX 
+## Smart Test 
 
-- SoloX - Real-time collection tool for Android/iOS performance data. 🧙 🧙 🧙
-
-- We are committed to solving inefficient, cumbersome test execution, and our goal is Simple Test In SoloX! 👋 👋 👋
+- We are committed to solving inefficient, cumbersome test execution, and our goal is Simple Test In Smart Test! 👋 👋 👋
 
 - Site: https://smart-test-ti.github.io/apm.html 🍿 🍿 🍿
 

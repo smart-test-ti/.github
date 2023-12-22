@@ -4,5 +4,6 @@
 
 💡 If you want to become a developer, please email to laoqi1988_f1@126.com
 
-![communicate](https://github.com/smart-test-ti/.github/assets/24454096/fadb328d-c136-460a-b30d-a98d9036d882)
+<img src="https://github.com/smart-test-ti/.github/assets/24454096/fadb328d-c136-460a-b30d-a98d9036d882" alt="SmartTest" width="500">
+
 
